@@ -33,15 +33,15 @@ Files provided by the instructor, which I did not contribute to:
 For privacy reasons, the testcases themselves are included below, but not the GoogleTests setup for running them.
 
 ### Testcases: ### 
-All testcases are provided by the instructor, with the exception of "sudoku.rigged_output", which I added.
+All testcases are provided by the instructor, with the exception of "sudoku.rigged_output", which I added to unit_test_sudoku.cpp.
 * [unit_test_sudoku.cpp](https://github.com/JS1936/SudokuSolver-Cplusplus-uw/blob/main/unit_test_sudoku.cpp)
 * [unit_test_sudoku_locator.cpp](https://github.com/JS1936/SudokuSolver-Cplusplus-uw/blob/main/unit_test_sudoku_locator.cpp)
 
 
 ### Output of Testcases: ###
-Link to Testcases Output (shows all testcases passing): [testcases_output](https://github.com/JS1936/SudokuSolver-Cplusplus-uw/blob/main/SudokuTestcasesOutput_.docx)
-
-Screenshot of Testcases Output Summary:
+The unabridged output includes all testcases. The summary screenshot shows all testcases passing, no memory leaks.
+* Unabridged: [testcases_output](https://github.com/JS1936/SudokuSolver-Cplusplus-uw/blob/main/SudokuTestcasesOutput_.docx)
+* Summary:
   [sudoku_solver_all_testcases_pass_screenshot](https://user-images.githubusercontent.com/102188643/192669625-01b78f56-c1bf-48d6-aea6-e63ed5ab3c95.png)
   
 ## Development ##
