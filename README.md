@@ -18,13 +18,13 @@ A zero indicates an empty location in the Sudoku grid.
 ## Classes Breakdown ##
 
 Files I wrote/created:
-* [sudoku.cpp](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/src/problem_3/sudoku.cpp)
+* [sudoku.cpp](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/sudoku.cpp)
 * [testcases_output](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/SudokuTestcasesOutput_.docx)
 * [sudoku_solver_all_testcases_pass_screenshot](https://user-images.githubusercontent.com/102188643/192669625-01b78f56-c1bf-48d6-aea6-e63ed5ab3c95.png)
 
 Files I contributed to:
-* [sudoku.h](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/src/problem_3/sudoku.h) (Added the appropriate method headers)
-* [unit_test_sudoku.cpp](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/test/problem_3/unit_test_sudoku.cpp) (Added rigged_input testcase)
+* [sudoku.h](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/sudoku.h) (Added the appropriate method headers)
+* [unit_test_sudoku.cpp](https://github.com/JS1936/SudokuSolver-Cplusplus-uwb/blob/main/unit_test_sudoku.cpp) (Added rigged_input testcase)
 
 Files provided by the instructor, which I did not contribute to:
 * All other files
